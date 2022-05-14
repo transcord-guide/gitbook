@@ -1,2 +1,2 @@
-# *Setup Everything
+# Setup Everything
 

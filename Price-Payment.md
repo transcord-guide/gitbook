@@ -1,2 +1,2 @@
-# Price & Payment
+# Pricing
 
